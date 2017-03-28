@@ -1,6 +1,6 @@
 {
   "name": "pown-now",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pownage guaranteed",
   "main": "index.js",
   "scripts": {
